@@ -6,8 +6,6 @@ class Jugadora {
         this.h = h;
         this.pes = pes;
         this.posicio = posicio;
-
-
         this.posicions =  ["a", "b", "a-p", "e", "p"];
        
 
