@@ -14,7 +14,7 @@ try {
           new Jugadora("Erda", 20, 198, 98, "b"),
           new Jugadora("Gutrune", 20, 201, 98, "b"),
      ];
-
+ 
      // una jugadora que fallarà
      let jugadoraIncorrecta = new Jugadora("Waltraute", 20, 198, 98, "bjhfksdgfjh");
      console.log(jugadoraIncorrecta);
